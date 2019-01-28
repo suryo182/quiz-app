@@ -13,7 +13,7 @@ const App = (() => {
   const restartButtonEl = document.querySelector('.restart'); 
 
   const q1 = new Question(
-    'First President os UF?',
+    'First President of US?',
     ['Barrack', 'Osama', 'George', 'Monkey'],
     2
   )
